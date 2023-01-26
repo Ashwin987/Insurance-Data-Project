@@ -4,7 +4,7 @@ I originally took the counties in the state of California that had a population 
 For the results I found out that the county with the highest age related premature death rate was Imperial county with a rating of 524.2. On the other hand The lowest
 was Santa Clara county with a rating of 212.5. However just comparing the premature death rate does not really mean much. This is
 because a county with a high population can have a significantly big death rate also. This is why for my results I incorporated the population as well as the death
-rate. As you can see from the results and the graphs down below the best place for an insurance company to target would be Santa Clara, Kern and Alameda counties.
+rate. As you can see from the results and the graphs down below the best place for an insurance company to target for business growth would be Santa Clara, Kern and Alameda counties.
 These three counties described above all had a population in the 25th percentile and all also have a really low death rate. Moreover, the counties with the highest
 risks were Imperial and San Bernardino counties. These two counties had the highest age related premature death rate and also have a decently sized population.
 
